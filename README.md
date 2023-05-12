@@ -1,1 +1,2 @@
 # C-Programming
+This repository contains all of the labsheets and tutorials I have completed while learning C programming. Each folder represents a different lab or tutorial and includes the necessary files to compile and run the code. These labsheets and tutorials cover a range of topics, including basic syntax, data types, control structures, functions, arrays, pointers, and more. Feel free to explore and use these resources to improve your understanding of C programming.
