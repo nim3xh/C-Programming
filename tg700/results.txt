@@ -1,0 +1,2 @@
+Number of lines = 23
+Number of characters = 700
